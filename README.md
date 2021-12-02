@@ -15,7 +15,8 @@ ground or backgrounds with text themselves are among our most difficult tasks an
 
 Example:
 
-[Interview Task Report-danial  farsi (1).pdf](https://github.com/danialfarsi/image_dewarping_1/files/7642912/Interview.Task.Report-danial.farsi.1.pdf)
+<img width="278" alt="Screen Shot 1400-09-11 at 18 36 48" src="https://user-images.githubusercontent.com/43178887/144448075-6d66313f-99a7-493c-ad4a-c36a5991b8ba.png">
+
 
 In addition, other factors are also essential to us in this type of task in the real world. For example,
 the shooting method, shooting angle, lighting are also essential and affect our diagnosis.
@@ -45,10 +46,8 @@ functional contour and specify it as well. Our goal in finding the paper contour
 the corner.
 
 
-[Interview Task Report-danial  farsi (1) (2).pdf](https://github.com/danialfarsi/image_dewarping_1/files/7642914/Interview.Task.Report-danial.farsi.1.2.pdf)
+<img width="509" alt="Screen Shot 1400-09-11 at 18 37 15" src="https://user-images.githubusercontent.com/43178887/144448164-b06c4255-7637-4e62-9130-a48a2e4e1dab.png">
 
-
-[Interview Task Report-danial  farsi (1) (1).pdf](https://github.com/danialfarsi/image_dewarping_1/files/7642917/Interview.Task.Report-danial.farsi.1.1.pdf)
 
 
 
@@ -57,7 +56,8 @@ and the current corners of the contour to find our final positions. Our primary 
 the contour corners because they may be part correctly. For example, it is not from the tab in the
 image, and it is not easy to recognize it.
 
-[Interview Task Report-danial  farsi (1) (3).pdf](https://github.com/danialfarsi/image_dewarping_1/files/7642921/Interview.Task.Report-danial.farsi.1.3.pdf)
+
+<img width="224" alt="Screen Shot 1400-09-11 at 18 37 30" src="https://user-images.githubusercontent.com/43178887/144448205-554dbb59-d4dd-4018-b1c2-33b48c1d7bbc.png">
 
 
 
@@ -72,7 +72,7 @@ these steps and transferring the image, now I will draw the image again and we h
 according to our conditions.
 
 
-[Interview Task Report-danial  farsi (1) (4).pdf](https://github.com/danialfarsi/image_dewarping_1/files/7642924/Interview.Task.Report-danial.farsi.1.4.pdf)
+<img width="229" alt="Screen Shot 1400-09-11 at 18 37 47" src="https://user-images.githubusercontent.com/43178887/144448269-69a09835-fc69-4e93-90e3-a42c3f3516e2.png">
 
 
 
